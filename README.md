@@ -11,3 +11,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)&nbsp;
 
  # Acesso ao projeto
+Confira o resultado no link: 
+
+<a href= "https://ana-sato.github.io/curso-logica-JavaScript/">GitHub Pages</a>
