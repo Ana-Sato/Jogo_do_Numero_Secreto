@@ -3,15 +3,6 @@
  
 ![_C__Users_Ana%20Sato_Documents_Estudos_Alura_L%C3%B3gica%20de%20programa%C3%A7%C3%A3o%20explore%20fun%C3%A7%C3%B5es%20e%20listas_Jogo_do_Numero_Secreto_index html](https://github.com/Ana-Sato/curso-logica-de-programacao-JavaScript-Jogo-do-Numero-Secreto/assets/136610267/52dbeb24-97ea-48ee-9cde-54213470223c)
 
-<div align="center">
- 
- <img loading="lazy" height="500em" src="https://github.com/Ana-Sato/curso-logica-de-programacao-JavaScript-Jogo-do-Numero-Secreto/assets/136610267/285fe79b-b9cb-4ed6-b116-cf9be3395203">
-
- <img loading="lazy" height="500em" src="https://github.com/Ana-Sato/curso-logica-de-programacao-JavaScript-Jogo-do-Numero-Secreto/assets/136610267/494a46c5-ec31-49af-ba64-15748636d297">
-
-
-</div>
-
 # Tecnologias utilizadas
 
 ![HTML5](https://img.shields.io/badge/HTML5-ff7f00?style=for-the-badge&logo=html5&logoColor=fff)
