@@ -5,9 +5,9 @@
 
 <div align="center">
  
- <img loading="lazy" height="750em" src="https://github.com/Ana-Sato/curso-logica-de-programacao-JavaScript-Jogo-do-Numero-Secreto/assets/136610267/285fe79b-b9cb-4ed6-b116-cf9be3395203">
+ <img loading="lazy" height="500em" src="https://github.com/Ana-Sato/curso-logica-de-programacao-JavaScript-Jogo-do-Numero-Secreto/assets/136610267/285fe79b-b9cb-4ed6-b116-cf9be3395203">
 
- <img loading="lazy" height="750em" src="https://github.com/Ana-Sato/curso-logica-de-programacao-JavaScript-Jogo-do-Numero-Secreto/assets/136610267/494a46c5-ec31-49af-ba64-15748636d297">
+ <img loading="lazy" height="500em" src="https://github.com/Ana-Sato/curso-logica-de-programacao-JavaScript-Jogo-do-Numero-Secreto/assets/136610267/494a46c5-ec31-49af-ba64-15748636d297">
 
 
 </div>
